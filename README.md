@@ -1,3 +1,8 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-system-information)
+
+
 # api-plugin-system-information
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-system-information.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-system-information)
